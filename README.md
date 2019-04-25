@@ -76,7 +76,7 @@ The value of blockchain-based farm traceability system is mainly reflected in th
 ## IV. "Chain Orange" Case
 The navel orange family in southern Jiangxi is known as the king of the best quality vitamin C orange because of its large and seedless, elegant color, crisp and tender meat, moderate sweet and sour. It is also awarded the title of "high quality agricultural products" and "high quality fruit" by the Ministry of Agriculture. It enjoys a high reputation in the market and sells abroad. Authoritative statistics show that in 2016, Ganzhou's fruit industry planted an area of 2.48 million mu with a yield of 1.43 million tons, of which navel orange planted an area of 1.55 million mu with a yield of only 1.08 million tons. Because the market demand of navel orange in southern Jiangxi is far greater than the supply, the natural Shanzhai version of "navel orange in southern Jiangxi" was born.
 
-<div align=center>![](https://github.com/liandi123/PHBS_BlockChain_2018/blob/master/orange.png)
+![](https://github.com/liandi123/PHBS_BlockChain_2018/blob/master/orange.png)
 
 Or because the inferior currency drives out the reverse elimination of the good currency, the real navel orange in southern Jiangxi is gradually impacted by a large number of Shanzhai editions, falling into the situation of high quality, low price, or even unable to sell. According to the preliminary estimation of experts in the industry, more than half of the navel oranges sold in the national market every year are counterfeit Gannan navel orange brand or brand name. The phenomenon of counterfeit, inferior and inferior is more serious, which has a serious impact on the brand reputation of Gannan navel orange and the healthy development of the industry.
 
@@ -109,7 +109,7 @@ Traceability System Implementation Strategy. The implementation of traceability 
 ## VI. Blockchain traceability system through BaaS
 Where to deploy blockchain is a problem to be solved. Blockchain requires professional design, computing and storage resources. According to the present situation of Chinese agriculture mentioned before, I think deploying systems on cloud platforms via BaaS (Blockchain as a Service) is a better choice. I will give a brief introduction of BaaS.
 
-<div align=center><src="https://github.com/liandi123/PHBS_BlockChain_2018/blob/master/baas.png"></div>
+![](https://github.com/liandi123/PHBS_BlockChain_2018/blob/master/baas.png)
 
 BaaS is a service platform that helps users to create, manage and maintain blockchain networks and applications. It has the characteristics of reducing development and use costs, taking into account rapid deployment, convenience and ease of use, high safety and reliability, and is applied to blockchain.
 
