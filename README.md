@@ -134,3 +134,20 @@ Food traceability based on Internet of Things technology can not only solve the 
 
 By writing this paper, I have a deeper understanding of the blockchain, and have confidence in the broad application scenario of the blockchain in the future. I am very lucky to be able to take this course. I hope that in the future blockchain can bring more contributions to mankind.
 
+## VIII. References
+
+[D. Tse, B. Zhang, Y. Yang, C. Cheng and H. Mu, "Blockchain application in food supply information security," 2017 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), Singapore, 2017, pp. 1357-1361.](https://ieeexplore.ieee.org/abstract/document/8290114)
+
+[基于区块链技术的农业食品安全追溯体系研究.J. 赵维. 技术经济与管理研究. 2019(01)](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=JXJG201901003&uid=WEEvREcwSlJHSldRa1FhdkJkVG1BVmpUYi9aQWtzS0ZBN2d3a3lYd09qVT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjE1NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZZK1J0Rnk3a1Y3L05MelhCYWJHNEg5ak1ybzlGWjRSOGVYMUw=)
+
+[基于区块链打造中药溯源创新体系.J. 曹国钧,袁振辉. 中国现代中药. 2018(12)](http://kns.cnki.net/kcms/detail/detail.aspx?filename=YJXX201812003&dbcode=CJFQ&dbname=CJFDTEMP&v=)
+
+[中药材质量追溯体系信息化构建概述.J. 李桂桂. 中国现代中药. 2017(06)](http://kns.cnki.net/kcms/detail/detail.aspx?filename=YJXX201706031&dbcode=CJFQ&dbname=CJFD2017&v=)
+
+[区块链:物联网安全的解决方案.J. 沈杰. 中国信息界. 2017(03)](http://kns.cnki.net/kcms/detail/detail.aspx?filename=ZGXN201703015&dbcode=CJFQ&dbname=CJFD2017&v=)
+
+[M. Samaniego and R. Deters, "Blockchain as a Service for IoT," 2016 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData), Chengdu, 2016, pp. 433-436.](https://ieeexplore.ieee.org/abstract/document/7917130/references#references)
+
+[区块链与云计算融合发展BaaS成大势所趋.J. 刘楠刘露. 通信世界. 2017(17)](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=JSTX201717050&v=MDg0NTlNTHo3ZmRyRzRIOWJOcUk5QVpJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mWStSdEZ5L2dWTHo=)
+
+[“链橙”上市：区块链技术对中国食品安全意味这什么？.News.](https://www.sohu.com/a/205375238_99903906)
