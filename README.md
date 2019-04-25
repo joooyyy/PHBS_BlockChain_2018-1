@@ -109,7 +109,7 @@ Traceability System Implementation Strategy. The implementation of traceability 
 ## VI. Blockchain traceability system through BaaS
 Where to deploy blockchain is a problem to be solved. Blockchain requires professional design, computing and storage resources. According to the present situation of Chinese agriculture mentioned before, I think deploying systems on cloud platforms via BaaS (Blockchain as a Service) is a better choice. I will give a brief introduction of BaaS.
 
-<div align=center><src="https://github.com/liandi123/PHBS_BlockChain_2018/blob/master/baas.png"/></div>
+<div align=center><src="https://github.com/liandi123/PHBS_BlockChain_2018/blob/master/baas.png"></div>
 
 BaaS is a service platform that helps users to create, manage and maintain blockchain networks and applications. It has the characteristics of reducing development and use costs, taking into account rapid deployment, convenience and ease of use, high safety and reliability, and is applied to blockchain.
 
